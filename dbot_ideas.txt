@@ -1,0 +1,3 @@
+Ideas: 
+
+To have the bot respond to a specfic user(s) when triggered by certain words.
